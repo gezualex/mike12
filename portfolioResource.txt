@@ -1,0 +1,3 @@
+GitHub and GitHub Pages offer powerful tools for creating and showcasing a portfolio that can significantly enhance job seekers' prospects. Using GitHub, I can make a repository to store and manage my portfolio files, such as code samples, projects, and other relevant work. 
+On the other hand, GitHub Pages provides a platform for hosting a website directly from a GitHub repository. By leveraging the simplicity and flexibility of GitHub Pages, I can create a professional and polished online portfolio to display my work, projects, and achievements. 
+This platform allows me to use custom domain names, implement responsive designs, and even integrate with Jekyll, a static site generator, to build a dynamic and engaging portfolio website
